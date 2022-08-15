@@ -1,8 +1,4 @@
 # Romerodev: Challenge React
-## Consideraciones Técnicas
-Queda a criterio del participante:
-- La elección de un componente de terceros para renderizado de tablas
-- La elección de una biblioteca http para comunicación con APIs
 
 ## **Enunciado**
 Haciendo uso de la [API Pública](https://rickandmortyapi.com/) de Rick & Morty, resolver:
@@ -34,11 +30,6 @@ Mostrar:
 
 ## Comparativa de personajes
 Reutilizando la barra de búsqueda del punto anterior, permitir realizar una comparación entre personajes teniendo en cuenta los siguientes campos:
-- Nombre
-- Género
-- Ubicación
-- Especie
-- Estado
 - Cantidad de episodios que compartieron con cada personaje comparado
 
 ### Consideraciones
